@@ -1,16 +1,28 @@
-### Hi there 👋
+# Mathieu Derieux
 
-<!--
-**mathieuxder/mathieuxder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>* You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character. *
 
-Here are some ideas to get you started:
+![mathieu photo](https://user-images.githubusercontent.com/84721817/119979750-a56b6300-bfbb-11eb-8855-bfabae2dc695.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bienveillant,Ouvert d'esprit  
+
+information | answer
+------------|---------
+Birthday | 14/09
+Gender | Male
+Favorite color | Green
+Favorite food | Spaghetti
+
+Pinneapple on pizza? 
+- [ ] yes
+- [ ] no 
+
+### Hobbies
+* playing instruments
+    * Guitar
+    * Bass
+    * Ukulele
+* Reading 
+
+####  You can always count on me when 
+Je suis la si vous avez de parler.Peu importe vos difficultés ou vos problèmes vous pouvez venir me voir si vous avez besoin d'aide et si j'ai pas la reponse on peux chercher ensemble la solution.
